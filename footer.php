@@ -21,10 +21,10 @@
                             <img src="<?php echo get_stylesheet_directory_uri(); ?>/./css/img/outriskrlogo white.png" alt="">
                         </div>
                         <div class="scial">
-                            <a href="" class="facebook"><i class="icon-iconmonstr-facebook-5"></i></a>
-                            <a href="" class="twitter"><i class="icon-iconmonstr-twitter-5"></i></a>
+                            <a href="https://www.facebook.com/OutRisk-100715949228367" target="_blank" class="facebook"><i class="icon-iconmonstr-facebook-5"></i></a>
+                            <a href="https://twitter.com/OutRisk1" target="_blank" class="twitter"><i class="icon-iconmonstr-twitter-5"></i></a>
                             <a href="" class="linkedin"><i class="icon-iconmonstr-linkedin-5"></i></a>
-                            <a href="" class="youtube"><i class="icon-iconmonstr-youtube-10"></i></a>
+                            <a href="https://www.youtube.com/channel/UCIaSp__vyx-drAWU1NKQJMQ" target="_blank" class="youtube"><i class="icon-iconmonstr-youtube-10"></i></a>
                         </div>
 
                     </div>
